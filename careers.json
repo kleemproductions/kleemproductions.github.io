@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Creative & Art",
+    "positions": [
+      {
+        "title": "Senior 3D Animator",
+        "overview": "We are seeking a highly skilled Senior 3D Animator to bring our characters and worlds to life with fluid, believable, and emotionally compelling animations. You will be a key player in a team dedicated to creating a visually stunning cinematic universe rooted in epic mythology.",
+        "responsibilities": [
+          "Create high-quality character, creature, and environmental animations for cinematic sequences.",
+          "Collaborate closely with the art, story, and VFX teams to ensure a cohesive and powerful visual narrative.",
+          "Mentor junior animators, providing feedback and guidance to uphold the studio's quality standards.",
+          "Contribute to the development of animation pipelines and workflows to improve efficiency and creative output."
+        ],
+        "qualifications": [
+          "5+ years of professional experience in character animation for feature film, television, or high-end game cinematics.",
+          "Expert proficiency in Maya, Blender, or a similar 3D animation software.",
+          "A strong portfolio demonstrating exceptional skill in keyframe animation, timing, and weight.",
+          "Deep understanding of anatomy, kinematics, and character performance.",
+          "Excellent communication and teamwork skills."
+        ],
+        "compensation": "Competitive salary plus performance bonuses. Comprehensive benefits package including health, dental, and vision.",
+        "applyLink": "https://example.com"
+      }
+    ]
+  },
+  {
+    "category": "Technical",
+    "positions": [
+      {
+        "title": "VFX Compositor",
+        "overview": "We are looking for a talented VFX Compositor to join our post-production team. You will be responsible for integrating various visual elements, including live-action footage, CGI, and matte paintings, to create seamless and breathtaking final shots for our epic films.",
+        "responsibilities": [
+          "Integrate 2D and 3D elements into live-action plates.",
+          "Perform tasks such as tracking, rotoscoping, color correction, and keying.",
+          "Collaborate with lighters and other artists to ensure shots meet the creative direction.",
+          "Troubleshoot and solve technical issues in the compositing pipeline."
+        ],
+        "qualifications": [
+          "3+ years of experience as a compositor in the film or high-end television industry.",
+          "Expert knowledge of Nuke or a similar node-based compositing software.",
+          "A strong eye for detail, color, composition, and lighting.",
+          "Solid understanding of the entire visual effects pipeline.",
+          "Ability to work efficiently under tight deadlines."
+        ],
+        "compensation": "Competitive salary and a comprehensive benefits package.",
+        "applyLink": "https://example.com"
+      }
+    ]
+  }
+]
